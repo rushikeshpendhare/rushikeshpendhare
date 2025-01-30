@@ -36,6 +36,6 @@ A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundati
 
   <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithanandkumar&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
   <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&layout=compact&langs_count=8&theme=react" alt="Md. Talal Wasim" />
-  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithanandkumar&layout=compact&langs_count=8&theme=react"/>
+  <img height="115em" 
 </a>
 </div>
