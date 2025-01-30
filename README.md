@@ -23,7 +23,7 @@ A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundati
 - 💬 **Ask me about:** Java, Spring Boot, Deployment, Oracle, MySql, Microservices
 - 📫 **How to reach me:** rushikeshpendhare9120@gmail.com
 - 💬 **Other link:** [LinkedIn](https://www.linkedin.com/in/rushikesh-pendhare-b10471229/)
-- 🏆 **GitHub Trophy:** [ GitHub Trophy ](https://github.com/rushikeshpendhare)]
+- 🏆 **GitHub Trophy:** [ GitHub Trophy ](https://github.com/rushikeshpendhare)
 
 - <h3 align="left">🏆 GitHub Trophy</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithanandkumar" alt="codewithanandkumar" /></a> </p>
