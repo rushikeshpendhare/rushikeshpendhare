@@ -7,7 +7,7 @@ A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundati
 
 **Education:**
 - **Dr. D.Y.Patil College Of Engineering ** 
-  - **Bachelor of Computer Science (B.Tech)** -Pursuing  
+  - **Bachelor of Computer Science (B.Tech)**  
      
 
 <h3 align="left">🚀Languages and Tools:</h3>
