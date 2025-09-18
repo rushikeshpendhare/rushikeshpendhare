@@ -34,7 +34,7 @@ A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundati
 ## 📊 My Github Stats
 <div display="flex">
 <a href="https://github.com/rushikeshpendhare">
-  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rushikeshpendharer&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+   <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithanandkumar&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
   <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpendhare&layout=compact&langs_count=8&theme=react" alt="Anand Kumar" />
   <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rushikeshpendhare&layout=compact&langs_count=8&theme=react"/>
 </a>
