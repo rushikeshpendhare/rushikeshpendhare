@@ -1,41 +1,154 @@
-# HI 👋 i'm Rushikesh Pendhare
+<div align="center">
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/rushikesh-pendhare-b10471229/)**  
+```
+██████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗  ██╗███████╗███████╗██╗  ██╗
+██╔══██╗██║   ██║██╔════╝██║  ██║██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
+██████╔╝██║   ██║███████╗███████║██║█████╔╝ █████╗  ███████╗███████║
+██╔══██╗██║   ██║╚════██║██╔══██║██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
+██║  ██║╚██████╔╝███████║██║  ██║██║██║  ██╗███████╗███████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-### A passionate Full Stack Java Developer from India
-A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundation in both front-end and back-end development. Skilled in creating efficient and scalable apps for exceptional user experiences. Skilled in Java, Spring Boot, and a variety of web technologies. Constantly seeking opportunities to innovate and enhance software solutions. Committed to creating technology that solves real-world problems and drives business success. Love to work in a team and always ready to lead a team.
+# Hi there, I'm **Rushikesh Pendhare** 👋
 
-**Education:**
-- **Dr. D.Y.Patil College Of Engineering ** 
-  - **Bachelor of Computer Science (B.Tech)** 2025  
-     
+### 🚀 Full Stack Java Developer · Problem Solver · Tech Enthusiast
 
-<h3 align="left">🚀Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;
- <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://github.com/rushikeshpendhare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-pendhare-b10471229/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikeshpendhare)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshpendhare9120@gmail.com)
 
-### Things you should know about me:
-- 👨🏽‍💻 **Keen Interest in:** Java, Spring Boot, JPA, JDBC, Oracle
-- 🖍 **Frontend:** Bootstrap, HTML5, CSS3, JSP, JavaScript, ReactJs
-- 🤔 **Exploring:** AWS, ReactJS, Docker, Microservices
-- 🖍 **Getting better at:** Java
-- 👀 **Interest:** Software Development
-- 💬 **Ask me about:** Java, Spring Boot, Deployment, Oracle, MySql, Microservices
-- 📫 **How to reach me:** rushikeshpendhare9120@gmail.com
-- 💬 **Other link:** [LinkedIn](https://www.linkedin.com/in/rushikesh-pendhare-b10471229/)
-- 🏆 **GitHub Trophy:** [ GitHub Trophy ](https://github.com/rushikeshpendhare)
+</div>
 
-- <h3 align="left">🏆 GitHub Trophy</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshpendhare" alt="rushikeshpendhare" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🧠 Who Am I?
 
+> *"I don't just write code — I engineer solutions."*
 
-## 📊 My Github Stats
-<div display="flex">
-<a href="https://github.com/rushikeshpendhare">
-   <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithanandkumar&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
-   <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&layout=compact&langs_count=8&theme=react" alt="Rushikesh Pendhare" />
-  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rushikeshpendhare&layout=compact&langs_count=8&theme=react"/>
-</a>
+I'm a **Full Stack Java Developer** with a razor-sharp focus on building **scalable, efficient, and intelligent software** from the ground up. Whether it's designing powerful REST APIs with **Spring Boot** or crafting sleek UIs with **React**, I bring both depth and breadth to every project I touch.
+
+🎓 **B.Tech in Computer Science** — Dr. D.Y. Patil College of Engineering, 2025
+💡 Constantly learning · Always building · Never settling
+
+---
+
+## ⚡ What Makes Me Different?
+
+| 🔥 Trait | 💬 Description |
+|----------|---------------|
+| 🧩 **System Thinker** | I design architectures, not just features |
+| ⚙️ **Backend Powerhouse** | Java + Spring Boot + Microservices is my playground |
+| 🎨 **Full Stack Vision** | From database design to pixel-perfect UI |
+| 🤝 **Team Leader** | I thrive leading and collaborating in agile teams |
+| 📈 **Growth Mindset** | Always exploring: AWS, Docker, Kafka, Kubernetes |
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🧰 Tools & More
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rushikeshpendhare&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rushikeshpendhare&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpendhare&theme=tokyonight&border_radius=10" alt="Rushikesh Pendhare GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rushikeshpendhare&theme=tokyonight&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌱 Currently Leveling Up
+
+```java
+public class Rushikesh extends Developer {
+
+    String[] mastering   = {"Java Advanced Concepts", "Spring Boot Internals"};
+    String[] exploring   = {"AWS Cloud Services", "ReactJS Deep Dive", "Docker & Kubernetes"};
+    String[] building    = {"Scalable Microservices", "Full Stack Projects"};
+    String  superpower   = "Turning complex problems into elegant solutions";
+
+    @Override
+    public String getGoal() {
+        return "Build technology that makes a real difference.";
+    }
+}
+```
+
+---
+
+## 💬 Let's Talk About
+
+🔹 Java & Spring Boot architecture
+🔹 Microservices design patterns
+🔹 Database optimization (Oracle / MySQL)
+🔹 Deployment pipelines & DevOps
+🔹 Building scalable full-stack applications
+
+---
+
+## 📫 Reach Me At
+
+<div align="center">
+
+📧 **rushikeshpendhare9120@gmail.com**
+🔗 **[LinkedIn — Let's Connect!](https://www.linkedin.com/in/rushikesh-pendhare-b10471229/)**
+💻 **[GitHub — See My Work](https://github.com/rushikeshpendhare)**
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rushikeshpendhare&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+
+### ✨ *"Great software is built by developers who care — and I genuinely do."* ✨
+
 </div>
